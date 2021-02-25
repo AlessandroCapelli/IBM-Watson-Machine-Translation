@@ -1,1 +1,2 @@
-# IBM-Watson-Machine-Translation
+# IBM Watson Machine Translation
+## Alessandro Capelli
